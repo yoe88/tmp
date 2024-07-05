@@ -48,5 +48,7 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSContactsUsageDescription</key>
+    <string>연락처에 접근하기 위한 권한이 필요합니다.</string>
 </dict>
 </plist>
